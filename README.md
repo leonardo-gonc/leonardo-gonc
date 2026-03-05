@@ -9,7 +9,7 @@
 <h2 align="left">📚 Sobre esta conta</h2>
 
 <p align="left">
-Esta é a minha conta escolar.<br>
+🏫 Esta é a minha conta escolar.<br>
 💻 Também tenho uma conta pessoal onde publico outros projetos:<br>
 👉 <a href="https://github.com/Leonardo-Goncalves19">Leonardo-Goncalves19</a>
 </p>
